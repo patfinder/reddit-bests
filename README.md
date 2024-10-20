@@ -1,6 +1,7 @@
 
 
-# reddit-bests
+## Intro
+
 Tool to get the best post from reddit.com
 
 ## Dev docs
@@ -16,5 +17,7 @@ https://www.reddit.com/r/redditdev
 ### How to get posts using api? do I need to pay to do this? 
 https://www.reddit.com/r/redditdev.json
 
+
+## DB design
 
 
