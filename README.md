@@ -2,8 +2,9 @@
 
 # reddit-bests
 
-Tool to get the best post from reddit.com
-
+- Tool to get the best post from reddit.com
+- This is intended to be combined with other tools for translating valuable contents, discussions 
+    to other languages. This help non-English speaking people to access these valuable content.
 
 ## Credential
 
