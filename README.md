@@ -100,6 +100,10 @@ https://old.reddit.com/prefs/apps/
     These libraries will no longer be usable after August 3, 2015. See [this post](https://www.reddit.com/r/redditdev/comments/2ujhkr/important_api_licensing_terms_clarified/) for more information.
 
 
+#### Authenticating via OAuth
+
+- [ref](https://praw.readthedocs.io/en/stable/getting_started/authentication.html#oauth)
+
 ### Json end-point
 
 - **old.reddit.com** can be used for **JSON** instead of reddit.com
